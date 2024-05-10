@@ -1,6 +1,6 @@
 import { answers } from "./answers.model";
 
-export interface card{
+export interface card {
     title: string;
     author: string;
     question: string;
